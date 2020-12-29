@@ -1,7 +1,9 @@
 ### Hello 👋
-My name is Bhumin Ben Son and I am currently a third year computer science student at Cal Poly. I'm also a part-time software engineer at iFixit. I love programming and at the moment I am exploring the path of full-stack web development. 
+My name is Bhumin Ben Son and I am currently a third year computer science student at <a href="https://calpoly.edu">Cal Poly<a/> :mortar_board:. I'm also a part-time software engineer at <a href="https://ifixit.com">iFixit<a/> :wrench:. I love programming and at the moment I am exploring the path of full-stack web development :computer:. 
 
-I dream that one day the code I write will be reached by people all around the world. 
+Check out my <a href="https://bhuminson.github.io">personal website<a/> :sparkles:!
+
+I dream that one day the code I write will reach people all around the world everyday :earth_americas:.
 
 <!--
 **bhuminson/bhuminson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
