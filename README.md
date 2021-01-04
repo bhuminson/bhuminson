@@ -3,7 +3,6 @@ My name is Bhumin Ben Son and I am currently a third year computer science stude
 
 Check out my <a href="https://bhuminson.github.io">personal website<a/> :sparkles:!
 
-I dream that one day the code I write will reach people all around the world everyday :earth_americas:.
 
 <!--
 **bhuminson/bhuminson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
