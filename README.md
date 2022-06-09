@@ -1,6 +1,6 @@
 ### Hello 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuminson" alt="bhuminson" /> </p>
-My name is Bhumin Ben Son and I am currently a senior computer science student at <a href="https://calpoly.edu">Cal Poly<a/> :mortar_board:. I'm a software engineer at <a href="https://ifixit.com">iFixit<a/> :wrench:. Programming is my profession, my hobby, and my passion. Currently, I am exploring the path of full-stack web development :computer:. 
+My name is Bhumin Ben Son. I graduated from <a href="https://calpoly.edu">Cal Poly<a/> with a Bachelor's in Computer Science :mortar_board:. Programming is my profession, my hobby, and my passion. Currently, I'm diving deep into front-end web development :computer:. <br></br>
 
-Check out my <a href="https://bhuminson.github.io">personal website<a/> :sparkles:!
+Check out my <a href="https://bhuminson.github.io">personal website</a> :sparkles:!
 
